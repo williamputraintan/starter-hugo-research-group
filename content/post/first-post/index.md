@@ -1,10 +1,8 @@
 ---
 title: First Post
 date: 2021-09-17T05:56:00.636Z
-summary: |-
+summary: |
   Summary - ysy
-
-  ![](screenshot-66-.png)
 draft: false
 featured: true
 authors:
@@ -19,3 +17,7 @@ image:
   preview_only: false
 ---
 Using web
+
+Some Pic
+
+![](screenshot-66-.png)
