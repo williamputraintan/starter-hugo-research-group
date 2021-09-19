@@ -9,7 +9,7 @@ authors:
 tags:
   - Testing
 image:
-  filename: ""
+  filename: screenshot-66-.png
   focal_point: Smart
   preview_only: false
 ---
